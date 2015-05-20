@@ -5,6 +5,7 @@ description: >
     ### Alexandre Anzala-Yamajako Thales Communication & Security, Thales Paris, France
 
 
+
     L'augmentation des débits de connexion a permis l'avènement du stockage de
     données dans le cloud qui offre de nouvelles perspectives aux utilisateurs
     tout en créant des problématiques complexes de sécurité liées à
